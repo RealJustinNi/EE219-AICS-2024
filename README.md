@@ -35,9 +35,11 @@ If you want to learn about the compiling script, you can read the introduction.
 5. The directory `doc`,  holds the relevant documentation and some manuals about RISC-V.
 6. The directory `projects`, holds the user's custom project code.
 ## Contributors
-We would like to thank former teaching assistants for their contributions to the course.
+We would like to thank teaching assistants for their contributions to the course.
 * [Shen Zhang](https://github.com/ColsonZhang) @ RICL of ShanghaiTech SIST
 * [Qixing Zhang](https://github.com/qixingzhang) @ RICL of ShanghaiTech SIST
 * [Hongqiao Zhang](https://github.com/zhanghq2) @ CAS4ET of ShanghaiTech SIST
 * [Yutao Gong](https://github.com/gongyt1112) @ CAS4ET of ShanghaiTech SIST
 * Heng Shi @ CAS4ET of ShanghaiTech SIST
+* [Zhaojun Ni](https://github.com/RealJustinNi) @ CAS4ET of ShanghaiTech SIST
+* [Zhengkun Yu](https://github.com/yuzhk42) @ CAS4ET of ShanghaiTech SIST
